@@ -1,5 +1,8 @@
 # Pose Detection TensorflowJS Posenet
 
+# Description
+Check out the implementation of a real-time pose-detector client-side (In the Browser) using Tensorflow.js.
+
 # Files
 
 1. **index.html** - Main HTML file
@@ -10,11 +13,15 @@
 
 # Demos
 
-**Images**
+**Working Demo:** 
+https://rubencg195.github.io/pages/pose-detection/
+
+
+#Images
 
 <img src="https://github.com/rubencg195/pose_detection_tensorflowjs_posenet/blob/master/demo1.png" width="50%"  />
 
-**Videos**
+# Videos
 
 <img src="https://github.com/rubencg195/pose_detection_tensorflowjs_posenet/blob/master/demo%20(1).gif" width="100%"  />
 <img src="https://github.com/rubencg195/pose_detection_tensorflowjs_posenet/blob/master/demo%20(2).gif" width="100%"  />
