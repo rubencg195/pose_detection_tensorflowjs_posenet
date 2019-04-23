@@ -17,7 +17,7 @@ Check out the implementation of a real-time pose-detector client-side (In the Br
 https://rubencg195.github.io/pages/pose-detection/
 
 
-#Images
+# Images
 
 <img src="https://github.com/rubencg195/pose_detection_tensorflowjs_posenet/blob/master/demo1.png" width="50%"  />
 
